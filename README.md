@@ -3,22 +3,7 @@
 <img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpm+gitub+.png"></a>
 </p>
 
-<p align="center">
-	<b><a href="#task">Task Overview</a></b>
-	|
-	<b><a href="#installation">Installation Instructions</a></b>
-	|
-	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt" target="_blank">Link to Module 3</a></b>
-</p>
-
-<h1> Introduction</h1>
-<b> Experience Technology at JP Morgan Chase </b>
-<p>Try out what real work is like in the technology team at JP Morgan Chase & Co. Fast track to the tech team with your work.</p>
-
 <h2 id="task"> Task Overview </h2>
-Display data visually for traders.
-Use Perspective to create the chart for the trader’s dashboard.
-
 <b>Aim:</b> Use Perspective to generate a chart that displays the data feed in a clear and visually appealing manner for traders to monitor this trading strategy.
 
 <h2 id="installation" >Setup / Installation</h2>
